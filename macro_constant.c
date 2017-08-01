@@ -9,7 +9,7 @@
 int main() {
 	// const prefix to declare constants with a specific type
 	int i = 10 + 2 + MAX_NUM;
-	const char NEWLINE = '\n'	
+	const char NEWLINE = '\n';	
 
 	printf("%d\n", i);
 	printf("%d\n", 0xab);
