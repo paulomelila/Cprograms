@@ -1,0 +1,32 @@
+Question 1: 
+Add 1 to the complemented number (after flipping the bits)
+
+Question 2: 
+1. 10111
+2. 10101
+3. 11001
+4. 11111
+
+Question 3:
+They all begin with 0.
+
+Question 4:
+In 2's complement we gave only one way to represent 0.
+This simplifies our representation scheme.
+
+Question 5:
+First, convert the number to binary and flip the bits.
+
+Question 6:
+Get the binary for 7, flip the bits and add 1.
+
+Question 7:
+convert the number to binary, flip the bits.
+
+Question 8:
+1. -16 = 110000
+2.  13 = 001101
+3.  -3 = 111101
+4. -10 = 110110
+5.  26 = 011010
+6. -31 = 100001
