@@ -1,0 +1,25 @@
+Question 1: 
+The expression reads a char and compare to EOF constant.
+First it says that char is not c, and second compares with EOF.
+
+Question 2:
+Because int can store more than 256 characters, EOF inclusive.
+But char can't store more than 256 characters.
+
+Question 3:
+++x: incrementation happens before any other operation.
+x++: incrementation happens after other operations.
+
+Question 4:
+i++ is equal to i = i + 1
+So the expression i = i++ could be written like this: i = i = i + 1
+It looks like a waste of code, because first says i = i; and then says i = i + 1;
+So i++ would be enough.
+ 
+Question 5:
+String is an array of characters + a null character ('\0')
+
+Question 6:
+At first everything will be normal, so a,bc will be placed and when EOF is read loop will break. 
+But from now, c will be EOF, so function will not return EOF but break with \0. 
+ 
